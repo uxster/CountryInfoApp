@@ -1,0 +1,7 @@
+{
+  "name": "country_info",
+  "version": "1.0.0",
+  "description": "Assignment for the Full Stack Development course at the New York Code + Design Academy",
+  "main": "app.js",
+  "author": "Hester van Slooten",
+}
